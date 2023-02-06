@@ -1,0 +1,37 @@
+.title {
+    color: whitesmoke;
+    width: 400px;
+    background-image: linear-gradient(rgb(69, 113, 72) , rgb(13, 76, 47));
+    height: 50px;
+    text-align: center;
+    padding: 20px;
+  }
+
+  .teams {
+      width: 400px;
+      background-image: linear-gradient(rgb(69, 113, 72) , rgb(13, 76, 47));
+      display: flex;
+      flex-wrap: wrap;
+      background-color: lightblue;
+      flex-direction: column;
+      margin-bottom: 35px; 
+      padding: 20px;
+  }
+
+  .gameDetails {
+      width: 400px;
+      background-image: linear-gradient(rgb(69, 113, 72) , rgb(13, 76, 47));
+      display: flex;
+      flex-wrap: wrap;
+      background-color: lightblue;
+      flex-direction: column;
+      margin-bottom: 35px;  
+      padding: 20px;
+  }
+
+  .btn {
+    width: 440px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(57, 105, 35);
+  }

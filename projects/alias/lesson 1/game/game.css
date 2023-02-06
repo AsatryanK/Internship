@@ -1,0 +1,21 @@
+.header {
+    width: 400px;
+    background-image: linear-gradient(rgb(69, 113, 72) , rgb(13, 76, 47));
+    text-align: center;
+    padding: 10px;
+    color: whitesmoke;
+    margin-bottom: 35px;
+}
+
+.words {
+    width: 400px;
+    background-image: linear-gradient(rgb(69, 113, 72) , rgb(13, 76, 47));
+    text-align: center;
+    padding: 10px;
+    color: whitesmoke;
+}
+
+hr {
+    width: 300px;
+    border-color: rgb(146, 137, 137);
+}
